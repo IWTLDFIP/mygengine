@@ -1,4 +1,4 @@
-module github.com/bilibili/gengine
+module github.com/tencent/gengine
 
 go 1.13
 
