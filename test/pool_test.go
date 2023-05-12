@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	"github.com/tencent/gengine/engine"
+	"github.com/IWTLDFIP/mygengine/engine"
 	"math/rand"
 	"sync/atomic"
 	"testing"

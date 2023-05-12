@@ -1,7 +1,7 @@
 package icore
 
 import (
-	"github.com/tencent/gengine/context"
+	"github.com/IWTLDFIP/mygengine/context"
 	"reflect"
 	"testing"
 )

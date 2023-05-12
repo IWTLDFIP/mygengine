@@ -2,9 +2,9 @@ package line_number
 
 import (
 	"fmt"
-	"github.com/tencent/gengine/builder"
-	"github.com/tencent/gengine/context"
-	"github.com/tencent/gengine/engine"
+	"github.com/IWTLDFIP/mygengine/builder"
+	"github.com/IWTLDFIP/mygengine/context"
+	"github.com/IWTLDFIP/mygengine/engine"
 	"testing"
 )
 

@@ -2,11 +2,11 @@ package test
 
 import (
 	"fmt"
-	"github.com/tencent/gengine/builder"
-	"github.com/tencent/gengine/context"
-	"github.com/tencent/gengine/internal/base"
-	parser "github.com/tencent/gengine/internal/iantlr/alr"
-	"github.com/tencent/gengine/internal/iparser"
+	"github.com/IWTLDFIP/mygengine/builder"
+	"github.com/IWTLDFIP/mygengine/context"
+	"github.com/IWTLDFIP/mygengine/internal/base"
+	parser "github.com/IWTLDFIP/mygengine/internal/iantlr/alr"
+	"github.com/IWTLDFIP/mygengine/internal/iparser"
 	"github.com/antlr/antlr4/runtime/Go/antlr"
 	"testing"
 )

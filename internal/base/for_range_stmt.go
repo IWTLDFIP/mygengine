@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/tencent/gengine/context"
-	"github.com/tencent/gengine/internal/iter"
+	"github.com/IWTLDFIP/mygengine/context"
+	"github.com/IWTLDFIP/mygengine/internal/iter"
 )
 
 // 	forRane循环语法 forRange key=mapInfo{}

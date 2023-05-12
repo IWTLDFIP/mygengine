@@ -3,8 +3,8 @@ package base
 import (
 	"errors"
 	"fmt"
-	"github.com/tencent/gengine/context"
-	"github.com/tencent/gengine/internal/core"
+	"github.com/IWTLDFIP/mygengine/context"
+	"github.com/IWTLDFIP/mygengine/internal/core"
 	"reflect"
 	"runtime"
 	"strings"

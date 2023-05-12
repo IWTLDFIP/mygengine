@@ -3,8 +3,8 @@ package engine
 import (
 	"errors"
 	"fmt"
-	"github.com/tencent/gengine/builder"
-	"github.com/tencent/gengine/internal/base"
+	"github.com/IWTLDFIP/mygengine/builder"
+	"github.com/IWTLDFIP/mygengine/internal/base"
 	"sort"
 	"sync"
 

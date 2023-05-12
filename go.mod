@@ -1,4 +1,4 @@
-module github.com/tencent/gengine
+module github.com/IWTLDFIP/mygengine
 
 go 1.13
 

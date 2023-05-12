@@ -3,7 +3,7 @@
 </div>
 
 [![license](https://img.shields.io/badge/license-BSD-blue.svg)]()
-[![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://github.com/tencent/gengine/wiki)
+[![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://github.com/IWTLDFIP/mygengine/wiki)
 
 # Gengine
 - [简体中文](README_zh.md)
@@ -15,7 +15,7 @@
 
 ## github wiki
 - English https://rencalo770.github.io/gengine_en/#/introduce
-- 中文文档 https://github.com/tencent/gengine/wiki
+- 中文文档 https://github.com/IWTLDFIP/mygengine/wiki
 
 ## supported the execute model of rules
  ![avatar](exe_model.jpg)
@@ -28,7 +28,7 @@
 - please use the newest version!
 - go mod or go vendo, go mod:
 ```go
-require github.com/tencent/gengine v1.5.7
+require github.com/IWTLDFIP/mygengine v1.5.7
 ```
 
 ## Question Connection

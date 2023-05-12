@@ -1,6 +1,6 @@
 package iparser
 
-import parser "github.com/tencent/gengine/internal/iantlr/alr"
+import parser "github.com/IWTLDFIP/mygengine/internal/iantlr/alr"
 
 type GengineParserVisitor struct {
 	parser.BasegengineVisitor
