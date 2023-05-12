@@ -1430,6 +1430,7 @@ func (g *Gengine) ExecuteDAGModel(rb *builder.RuleBuilder, dag [][]string) error
 		return nil
 	}
 
+	g.returnResult = make(map[string]interface{})
 	var errLock sync.Mutex
 	var eMsg []string
 
