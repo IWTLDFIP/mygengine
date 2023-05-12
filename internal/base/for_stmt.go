@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/bilibili/gengine/context"
+	"github.com/tencent/gengine/context"
 )
 
 const maxExecuteNum = 10000

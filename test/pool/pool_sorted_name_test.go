@@ -2,7 +2,7 @@ package pool
 
 import (
 	"fmt"
-	"github.com/bilibili/gengine/engine"
+	"github.com/tencent/gengine/engine"
 	"testing"
 )
 

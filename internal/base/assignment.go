@@ -3,8 +3,8 @@ package base
 import (
 	"errors"
 	"fmt"
-	"github.com/bilibili/gengine/context"
-	"github.com/bilibili/gengine/internal/core"
+	"github.com/tencent/gengine/context"
+	"github.com/tencent/gengine/internal/core"
 	"reflect"
 	"runtime"
 	"strings"

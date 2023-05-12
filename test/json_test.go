@@ -3,9 +3,9 @@ package test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/bilibili/gengine/builder"
-	"github.com/bilibili/gengine/context"
-	"github.com/bilibili/gengine/engine"
+	"github.com/tencent/gengine/builder"
+	"github.com/tencent/gengine/context"
+	"github.com/tencent/gengine/engine"
 	"strings"
 	"testing"
 )

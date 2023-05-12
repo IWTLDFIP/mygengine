@@ -2,10 +2,10 @@ package map_slice_array
 
 import (
 	"fmt"
-	"github.com/bilibili/gengine/builder"
-	"github.com/bilibili/gengine/context"
-	"github.com/bilibili/gengine/engine"
-	"github.com/bilibili/gengine/internal/core"
+	"github.com/tencent/gengine/builder"
+	"github.com/tencent/gengine/context"
+	"github.com/tencent/gengine/engine"
+	"github.com/tencent/gengine/internal/core"
 	"testing"
 )
 

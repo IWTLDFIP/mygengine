@@ -2,7 +2,7 @@ package server
 
 import (
 	"fmt"
-	"github.com/bilibili/gengine/engine"
+	"github.com/tencent/gengine/engine"
 	"testing"
 )
 
@@ -47,12 +47,12 @@ type Response struct {
 type Room struct {
 }
 
-func (r *Room) GetAttention( /*params*/ ) int64 {
+func (r *Room) GetAttention( /*params*/) int64 {
 	// logic
 	return 100
 }
 
-func (r *Room) GetNum( /*params*/ ) int64 {
+func (r *Room) GetNum( /*params*/) int64 {
 	//logic
 	return 111
 }

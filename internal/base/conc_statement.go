@@ -3,7 +3,7 @@ package base
 import (
 	"errors"
 	"fmt"
-	"github.com/bilibili/gengine/context"
+	"github.com/tencent/gengine/context"
 	"reflect"
 	"sync"
 )

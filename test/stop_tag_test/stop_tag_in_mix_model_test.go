@@ -2,9 +2,9 @@ package stop_tag
 
 import (
 	"fmt"
-	"github.com/bilibili/gengine/builder"
-	"github.com/bilibili/gengine/context"
-	"github.com/bilibili/gengine/engine"
+	"github.com/tencent/gengine/builder"
+	"github.com/tencent/gengine/context"
+	"github.com/tencent/gengine/engine"
 	"testing"
 )
 
